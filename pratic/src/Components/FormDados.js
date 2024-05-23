@@ -31,6 +31,7 @@ const FormDados = () => {
 
   return (
     <div className='formCad'>
+    <h1>Cadastro</h1>
       <form onSubmit={handleSubmit}>
         <label>
           Nome:
