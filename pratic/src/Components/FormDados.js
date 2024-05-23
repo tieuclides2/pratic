@@ -34,6 +34,7 @@ const FormDados = () => {
     <h1>Cadastro</h1>
     <h1>Alguma coisa</h1>
     <h1>Outra coisa</h1>
+    <h1>outra coisa</h1>
       <form onSubmit={handleSubmit}>
         <label>
           Nome:
